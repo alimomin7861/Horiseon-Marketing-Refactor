@@ -4,7 +4,7 @@
 
 # Screenshot 
 
-!(./assets/css/Horiseon%20Marketing%20Refactor.png)
+![](./assets/images/horiseon.png)
 
 # Link to deployed application
 
